@@ -1,0 +1,6 @@
+requests
+python-dotenv
+sounddevice
+scipy
+SpeechRecognition
+pyttsx3
